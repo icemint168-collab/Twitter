@@ -1,4 +1,3 @@
-```python
 """
 AI를 이용해 페르소나 기반 트윗 초안을 생성하는 모듈. (텍스트 전용)
 
@@ -217,4 +216,3 @@ def generate_tweet(topic_text: str | None = None) -> str:
 
 if __name__ == "__main__":
     print(generate_tweet())
-```
