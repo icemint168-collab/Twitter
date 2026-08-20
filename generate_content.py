@@ -198,7 +198,7 @@ def generate_tweet(topic_text: str | None = None) -> str:
     words = [word for word in words if not word.startswith("#")]
     tweet_text = " ".join(words).strip()
 
-    hashtags = "#พัทยา #คอสเพลย์"
+    hashtags = "#พัทยา #คอสเพลย์ #fwb"
 
     # 전체 길이가 260자를 넘지 않도록 본문 길이 제한
     max_body_length = 260 - len(hashtags) - 1
