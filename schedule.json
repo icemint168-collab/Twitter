@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "slots": [
     {
-      "time": "08:59",
-      "posted": true
-    },
-    {
-      "time": "10:51",
-      "posted": true
-    },
-    {
-      "time": "19:01",
+      "time": "08:46",
       "posted": false
     },
     {
-      "time": "21:55",
+      "time": "11:26",
+      "posted": false
+    },
+    {
+      "time": "19:16",
+      "posted": false
+    },
+    {
+      "time": "21:48",
       "posted": false
     }
   ]
